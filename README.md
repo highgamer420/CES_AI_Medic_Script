@@ -15,7 +15,7 @@ A fully autonomous AI Medic system for FiveM, compatible with QBCore and Standal
 🔧 Configuration
 ``` Located in config.lua:
 Config.MedicModel = 's_m_m_paramedic_01'
-Config.AmbulanceModel = 'f450ambo'
+Config.AmbulanceModel = 'Ambulance'
 Config.ReviveDelay = 10000
 Config.Fee = 500
 Config.MaxEMSOnline = 5
